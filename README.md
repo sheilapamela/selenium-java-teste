@@ -1,4 +1,4 @@
-# selenium-teste
+# selenium-java-teste
 
 Para rodar no maven os testes:
 <p>mvn test -DwebDriver=chromedriver
